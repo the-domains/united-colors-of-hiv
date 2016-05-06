@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[United Colors of HIV]]></title>
+        <description><![CDATA[United Colors of HIV]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 06 May 2016 21:18:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[gráfica promocional]]></title>
+            <description><![CDATA[<p>1era publicación</p>]]></description>
+            <link>undefinedgrafica-promocional/index.html</link>
+            <guid isPermaLink="false">7fb4c86b-f1b3-4d7b-ae43-85d28db12ef1</guid>
+            <pubDate>Fri, 06 May 2016 21:18:17 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
