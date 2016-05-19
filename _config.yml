@@ -1,4 +1,5 @@
-layout_spectrum: 1
+favicon: null
+name: United Colors of HIV
 opengraph:
   image: null
   type: null
@@ -19,7 +20,7 @@ purpose: []
 color:
   saturation: 0.01450052
   brandStrength: 0
-  lightness: 0
+  lightness: 1
   brandColors:
     - '#808080'
     - '#E7E2DF'
@@ -27,7 +28,8 @@ color:
     - '#04573F'
     - '#A32E04'
   rhythmicContrast: 0
-typography_spectrum: 0.40884
+typography_spectrum: 0.6901182
+layout_spectrum: 0.1466165
 cta:
   bucket: null
   version: null
@@ -36,5 +38,3 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-name: United Colors of HIV
