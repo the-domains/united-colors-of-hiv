@@ -1,5 +1,7 @@
-favicon: null
-name: United Colors of HIV
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -19,7 +21,7 @@ collections:
 purpose: []
 color:
   saturation: 0
-  brandStrength: 0.5182599
+  brandStrength: 1
   lightness: 1
   brandColors:
     - '#000000'
@@ -29,12 +31,10 @@ color:
     - '#828282'
   rhythmicContrast: 0
 typography_spectrum: 0.6901182
-layout_spectrum: 1
-analytics:
-  twitter: null
-  google: null
-  facebook: null
 cta:
   bucket: null
   version: null
   domain: null
+layout_spectrum: 1
+favicon: null
+name: United Colors of HIV
