@@ -1,4 +1,5 @@
-layout_spectrum: 0.1466165
+favicon: null
+name: United Colors of HIV
 opengraph:
   image: null
   type: null
@@ -26,15 +27,14 @@ color:
     - '#A35C40'
     - '#C13D2D'
     - '#CBAD54'
-  rhythmicContrast: 1
+  rhythmicContrast: 0
 typography_spectrum: 0.6901182
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 0.1466165
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-name: United Colors of HIV
+cta:
+  bucket: null
+  version: null
+  domain: null
