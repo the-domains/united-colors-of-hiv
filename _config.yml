@@ -19,7 +19,7 @@ collections:
 purpose: []
 color:
   saturation: 1
-  brandStrength: 1
+  brandStrength: 0.5182599
   lightness: 1
   brandColors:
     - '#782A26'
@@ -33,8 +33,8 @@ cta:
   bucket: null
   version: null
   domain: null
+layout_spectrum: 1
 analytics:
   twitter: null
   google: null
   facebook: null
-layout_spectrum: 0.6084855
