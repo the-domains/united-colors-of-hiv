@@ -1,5 +1,4 @@
-favicon: null
-name: United Colors of HIV
+layout_spectrum: 1
 opengraph:
   image: null
   type: null
@@ -10,31 +9,32 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
-  saturation: 0.217508
+  saturation: 0.01450052
   brandStrength: 0
-  lightness: 1
+  lightness: 0
   brandColors:
-    - '#8e8a87'
-    - '#fbffff'
-    - '#020808'
-    - '#6a4d2f'
-    - '#cac9c7'
+    - '#808080'
+    - '#E7E2DF'
+    - '#150000'
+    - '#04573F'
+    - '#A32E04'
   rhythmicContrast: 0
 typography_spectrum: 0.40884
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 1
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: United Colors of HIV
